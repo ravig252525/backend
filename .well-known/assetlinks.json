@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stock.screener",
+    "sha256_cert_fingerprints":
+    ["CA:76:F1:4D:6C:49:E5:6F:81:EE:7C:E2:76:9D:85:97:D9:01:41:B3:6A:0E:72:81:87:22:39:46:2A:8E:03:09"]
+  }
+}]
